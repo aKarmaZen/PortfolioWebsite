@@ -2,3 +2,13 @@ header{
     width: 700px;
     margin: 0 auto;
 }
+
+
+header h1{
+    text-align: center;
+}
+
+.headerImage {
+    width: 100px;
+    margin: 0 auto;
+}
